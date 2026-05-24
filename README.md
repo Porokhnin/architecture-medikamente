@@ -1,0 +1,2 @@
+# architecture-medikamente
+sprint # 10 Соответствие продукта требованиям data privacy, планирование сложной миграции
