@@ -2,5 +2,5 @@
 
 
 Решение представлено на картинке:
-![Data flow](DFD-DFD.drawio.pnDFD-TO-BE.drawio.png)
+![Data flow](medikamente-TO-BE.drawio.png)
 

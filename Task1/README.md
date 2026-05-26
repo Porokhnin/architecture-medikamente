@@ -20,7 +20,7 @@
 - Прием платежей
 - Процессинг платежей
 
-![Data flow](DFD-DFD.drawio.png)
+![Data flow](medikamente-DFD.drawio.png)
 
 ## Аудит мер по обеспечению безопасности данных.
 
